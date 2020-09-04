@@ -1,2 +1,2 @@
 # DOM-pig-game
-Javascript application
+Javascript game application
